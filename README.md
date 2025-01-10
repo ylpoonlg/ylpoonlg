@@ -1,21 +1,27 @@
 ## About Me
-#### Software Engineer wannabe...
-- Computer Science student at University of Manchester
-<p align="center">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Python&logo=python&color=4b8bbe&logoColor=ffd43b">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Java&logo=gradle&color=ffffff&logoColor=ED1D25">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=C/C%2b%2b&logo=c%2b%2b&color=00599c&logoColor=ffffff">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Dart&logo=dart&color=0175C2&logoColor=89e0f4">
-
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Html&logo=html5&color=E34F26&logoColor=ffffff">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=CSS&logo=css3&color=1572B6&logoColor=ffffff">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=JavaScript&logo=javascript&color=323330&logoColor=F0DB4F">
-</p>
+- Software Engineer based in Manchester, UK
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Arch&logo=archlinux&color=1793D1&logoColor=ffffff">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Qtile&logo=python&color=1d3e73&logoColor=ffffff">
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=&message=Neovim&logo=neovim&color=287fd9&logoColor=57A143">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-white?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=054d80">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-C-white?style=for-the-badge&logo=C&logoColor=white&color=283590">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python&color=facf42">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-golang-white?style=for-the-badge&logo=Go&logoColor=white&color=00add8">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=gradle&logoColor=ed1d25&color=ffffff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Dart-white?style=for-the-badge&logo=dart&logoColor=89e0f4&color=0175c2">
+
+  <br>
+  
+  <img alt="Static Badge" src="https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=html5&logoColor=ffffff&color=e34f26">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-CSS-white?style=for-the-badge&logo=css3&logoColor=ffffff&color=1572b6">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Javascript-white?style=for-the-badge&logo=javascript&logoColor=f0db4f&color=323330">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Typescript-white?style=for-the-badge&logo=typescript&logoColor=ffffff&color=2f74bf">
+
+  <br>
+
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Arch-white?style=for-the-badge&logo=archlinux&logoColor=1793d1&color=ffffff">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-linux-white?style=for-the-badge&logo=linux&color=212121">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-arm-white?style=for-the-badge&logo=arm&logoColor=ffffff&color=0180A1">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Neovim-white?style=for-the-badge&logo=neovim&logoColor=57a143&color=0d1017">
 </p>
 
 ## Contact
